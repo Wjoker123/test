@@ -31,7 +31,7 @@ int main()
 {
   Person per;
   per.Setname("wy");
- per.Setage(18);
+ per.Setage(17);
  per.printinfo();
 return 0;
 }
